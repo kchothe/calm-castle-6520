@@ -1,0 +1,5 @@
+development:
+  MONGOHQ_URL: mongodb://kdchothe:adminpass@candidate.57.mongolayer.com:10822,candidate.63.mongolayer.com:10023/paragyte_connector_app_production?replicaSet=set-56a090b525dcd045cf001344
+production:
+  MONGOHQ_URL: mongodb://kdchothe:adminpass@candidate.57.mongolayer.com:10822,candidate.63.mongolayer.com:10023/paragyte_connector_app_production?replicaSet=set-56a090b525dcd045cf001344
+  
